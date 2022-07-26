@@ -22,7 +22,7 @@ const Home = () => (
                                 iste consequuntur enim reprehenderit architecto consectetur cum?
                                 Totam ad molestias natus illum illo officia.
                             </p>
-                            <Link href="/hireme">
+                            <Link href="https://github.com/jereconjota">
                                 <a className="btn btn-outline-light">Hire Me</a>
                             </Link>
                         </div>
